@@ -12,7 +12,7 @@
 </IfModule>
 
 # allow CSS and JS
-<FilesMatch "^(spectrom-db-cleanup)\.(css|js)$">
+<FilesMatch "^(.+)\.(css|js)$">
 	<IfModule !mod_authz_core.c>
 		Allow from all
 	</IfModule>
