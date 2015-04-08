@@ -1,0 +1,50 @@
+/* 
+    Document   : spectrom-admin
+    Created on : Mar 11, 2015, 11:44:35 AM
+    Author     : SpectrOMtech
+    Description:
+        Admin styles used by SpectrOM plugins.
+*/
+
+div.spectrom-page-wrap {
+	margin-right: 10px;
+}
+div.spectrom-page-wrap th {
+	width: 260px;
+}
+div.spectrom-mkt-right {
+	float: right;
+	display: inline-block;
+	width: 300px;
+	padding: 0 5px;
+	margin: 25px 0 0 0;
+	height: 100%;
+min-height: 100px;
+}
+
+div.spectrom-mkt-right div.spectrom-logo {
+	width: 100%;
+width: 260px;
+	height: 150px;
+	background-image: url('../img/spectrom.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+div.spectrom-page {
+	float: left;
+}
+
+/** button rules */
+/* div.spectrom-page-wrap input.button-primary,
+div.spectrom-page-wrap input.button-primary:hover {
+    height: 120%;
+	background-image: url('../img/spectrom-logo-plain.png');
+	background-repeat: no-repeat;
+	background-size: 18px 18px;
+	background-position: 4px 6px;
+	padding-top: 3px;
+	padding-left: 12px;
+	font-weight: bold;
+	font-size: 120%;
+} */
