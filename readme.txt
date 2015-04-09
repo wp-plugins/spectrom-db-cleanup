@@ -28,7 +28,7 @@ The SpectrOM DB Cleanup Features:
 
 This DB Cleanup helps to ensure that your database index files do not get corrupted and that your data can be accessed efficiently. 
 
-Want to help make this tool even better? Participate in GitHub at <a href="https://github.com/spectrom/spectrom-db-cleanup" target="_blank">https://github.com/spectrom/spectrom-db-cleanup</a>. Or <a href="http://SpectrOMtech.com/contact-spectrom-tech/products-contact/" target="_blank">Contact SpectrOM</a> for more information on how you can participate.
+Want to help make this tool even better? Participate in GitHub at <a href="https://github.com/spectrom/spectrom-db-cleanup" target="_blank">https://github.com/spectrom/spectrom-db-cleanup</a>. Or <a href="http://spectromtech.com/products/spectrom-db-cleanup/" target="_blank">Contact SpectrOM</a> for more information on how you can participate.
 
 == Installation ==
 
