@@ -1,5 +1,5 @@
 === SpectrOM DB Cleanup ===
-Contributors: SpectrOMtech, davejesch
+Contributors: spectromtech, davejesch
 Donate link: http://SpectrOMtech.com/products/spectrom-db-cleanup
 Tags: database, cleanup, optimize, optimizer, optimization, performance, report, spectromtech, davejesch
 Requires at least: 3.5
